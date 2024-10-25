@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d0fbc91-8e04-4f0c-8943-15a05db04e5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/python-variables-and-control-flow-practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Emobilis Assesment.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Question1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Question1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Question2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Question2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Question3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Question3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Question4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Question4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Question5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Question5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Question6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Question6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Question7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Question7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Question8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Question8.py" afterDir="false" />
-    </list>
+    <list default="true" id="f29a460c-327d-4d39-b6b9-4730a095e6f1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,10 +13,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 0
-}</component>
-  <component name="ProjectId" id="2nvBjXqPQAJiXwE3V9g8FZb3yEq" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2npumMHQ9l1dza5K8mWIwJFdiDh" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,15 +26,9 @@
     "Python.Question1.executor": "Run",
     "Python.Question2.executor": "Run",
     "Python.Question3.executor": "Run",
-    "Python.Question4.executor": "Run",
-    "Python.Question5.executor": "Run",
-    "Python.Question6.executor": "Run",
-    "Python.Question8.executor": "Run",
-    "Python.Question9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Testing/Desktop/Emobilis/python-variables-and-control-flow-practice",
+    "last_opened_file_path": "C:/Users/Testing/Desktop/Emobilis Assesment",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -68,12 +48,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4d0fbc91-8e04-4f0c-8943-15a05db04e5f" name="Changes" comment="" />
-      <created>1729843815321</created>
+      <changelist id="f29a460c-327d-4d39-b6b9-4730a095e6f1" name="Changes" comment="" />
+      <created>1729682498771</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1729843815321</updated>
-      <workItem from="1729843818989" duration="3807000" />
+      <updated>1729682498771</updated>
+      <workItem from="1729682501294" duration="4735000" />
     </task>
     <servers />
   </component>
@@ -81,13 +61,8 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/python_variables_and_control_flow_practice$Question9.coverage" NAME="Question9 Coverage Results" MODIFIED="1729847015287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_variables_and_control_flow_practice$Question6.coverage" NAME="Question6 Coverage Results" MODIFIED="1729847549622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_variables_and_control_flow_practice$Question3.coverage" NAME="Question3 Coverage Results" MODIFIED="1729847529584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_variables_and_control_flow_practice$Question1.coverage" NAME="Question1 Coverage Results" MODIFIED="1729847398338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_variables_and_control_flow_practice$Question5.coverage" NAME="Question5 Coverage Results" MODIFIED="1729847543942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_variables_and_control_flow_practice$Question2.coverage" NAME="Question2 Coverage Results" MODIFIED="1729847489730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_variables_and_control_flow_practice$Question4.coverage" NAME="Question4 Coverage Results" MODIFIED="1729847536669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_variables_and_control_flow_practice$Question8.coverage" NAME="Question8 Coverage Results" MODIFIED="1729846464437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Emobilis_Assesment$Question1.coverage" NAME="Question1 Coverage Results" MODIFIED="1729682981731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Emobilis_Assesment$Question3.coverage" NAME="Question3 Coverage Results" MODIFIED="1729684150172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Emobilis_Assesment$Question2.coverage" NAME="Question2 Coverage Results" MODIFIED="1729683737050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

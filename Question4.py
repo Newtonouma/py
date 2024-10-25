@@ -1,9 +1,23 @@
-def reversing(fruits):
-    reversed = [string[::-1]
-                for string in fruits]
-    return reversed
+a = float(input("Enter the first number: "))
+b = float(input("Enter the second number: "))
 
-#calling function and printing the value
-fruits = ["apple", "banana", "cherry"]
-result = reversing(fruits)
-print("Reversed strings:", result)
+#operation
+operation = input("Enter the operation (+, -, *, /): ")
+
+if operation == "+":
+    result = a + b
+    print(f"{a} + {b} = {result}")
+elif operation == "-":
+    result = a - b
+    print(f"{a} - {b} = {result}")
+elif operation == "*":
+    result = a * b
+    print(f"{a} * {b} = {result}")
+elif operation == "/":
+    if b != 0:
+        result = a / b
+        print(f"{a} / {b} = {result}")
+    else:
+        print("This is a simple calculater, It cannot divide by zero.")
+else:
+    print("the operator you entered id invalid. Please enter either +, -, *, or /.")
