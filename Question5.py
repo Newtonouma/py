@@ -1,8 +1,8 @@
-a = int(input("Enter your age: "))
+def print_keys_even_values(input_dict):
+    for key, value in input_dict.items():
+        if value % 2 == 0:
+            print(key)
 
-if a < 18:
-    print("You are a minor.")
-elif 18 <= a <= 65:
-    print("You are an adult.")
-else:
-    print("You are a senior.")
+#Display and function calling
+example_dict = {'a': 2, 'b': 3, 'c': 4}
+print_keys_even_values(example_dict)

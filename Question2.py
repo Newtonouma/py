@@ -1,10 +1,10 @@
-number = float(input("Enter a number: "))
+def ask_continuously():
+    while True:
+        user_input = input("Enter a word (type 'exit' to quit): ")
+        if user_input.lower() == "exit":
+            print("Exiting the program.")
+            break
+        else:
+            print(f"You entered: {user_input}")
 
-checked = number % 2
-
-if checked == 0:
-    print(f"{number} is an even number")
-elif checked == 1:
-    print(f"{number} is an odd number")
-else:
-    print("You did not enter a whole number")
+ask_continuously()

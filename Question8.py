@@ -1,20 +1,12 @@
-#prompting for a number between 1 and 7
-number = int(input("Enter a number (1 to 7): "))
+def keys_of_values_greater_than_n(input, n):
+    keys = []  #an empty list to add keys
+    for key, value in input.items():
+        # Check whether the value is greater than n
+        if value > n:
+            keys.append(key)  # Add the key to the result list if the condition is met
+    return keys
 
-# Checking the number and print
-if number == 1:
-    print("Monday")
-elif number == 2:
-    print("Tuesday")
-elif number == 3:
-    print("Wednesday")
-elif number == 4:
-    print("Thursday")
-elif number == 5:
-    print("Friday")
-elif number == 6:
-    print("Saturday")
-elif number == 7:
-    print("Sunday")
-else:
-    print("Invalid input.")
+dictionary = {'a': 5, 'b': 12, 'c': 3}
+n = 4
+result = keys_of_values_greater_than_n(dictionary, n)
+print("Keys of values greater than", n, "is:", result)
